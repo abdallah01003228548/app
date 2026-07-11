@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(const MyApp());
-  //Amany Mohamed Eid 
 }
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
   //Abdallah tarek
+  // amany mohamed
 
   // This widget is the root of your application.
   @override
@@ -122,6 +122,7 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-void mainunction(){
+
+void mainunction() {
   print("menna's update");
 }
